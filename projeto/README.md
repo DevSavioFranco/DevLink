@@ -28,10 +28,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto visa criar um encurtador de links para facilitar o direcionamento de links. Obrigado!
 
-## :memo: Licença
+## ✅ Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by @Who.savss :wave
+Feito com ♥ by @Who.savss :wave:
